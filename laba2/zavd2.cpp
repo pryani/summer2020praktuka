@@ -20,7 +20,7 @@ int main(int argc, const char * argv[]) {
             }
         }
     }
-    cout<<endl<<"Âiäñîðòîâàíèé ìàñèâ:"<<endl;
+    cout<<endl<<"Ð’Ñ–Ð´ÑÐ¾Ñ€Ñ‚Ð¾Ð²Ð°Ð½Ð¸Ð¹ Ð¼Ð°ÑÐ¸Ð²:"<<endl;
     for (int i =0; i<10; i++) {
         cout<<a[i]<<"   ";
     }
@@ -30,13 +30,13 @@ int main(int argc, const char * argv[]) {
     for (int i=0; i<5; i++) {
         s1+=a[i];
     }
-    cout<<endl<<"Ñóìà ïåðøèõ ïÿòè åëåìåíò³â: "<<s1;
+    cout<<endl<<"Ð¡ÑƒÐ¼Ð° Ð¿ÐµÑ€ÑˆÐ¸Ñ… Ð¿ÑÑ‚Ð¸ ÐµÐ»ÐµÐ¼ÐµÐ½Ñ‚Ñ–Ð²: "<<s1;
     for (int i=5; i<10; i++) {
         s2+=a[i];
     }
-    cout<<endl<<"Ñóìà îñòàíí³õ ïÿòè åëåìåíò³â: "<<s2;
+    cout<<endl<<"Ð¡ÑƒÐ¼Ð° Ð¾ÑÑ‚Ð°Ð½Ð½Ñ–Ñ… Ð¿ÑÑ‚Ð¸ ÐµÐ»ÐµÐ¼ÐµÐ½Ñ‚Ñ–Ð²: "<<s2;
     double rez;
     rez= s1/s2;
-    cout<<endl<<"Ðåçóëüòàò ä³ëåííÿ: "<<rez;
+    cout<<endl<<"Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚ Ð´Ñ–Ð»ÐµÐ½Ð½Ñ: "<<rez;
     return 0;
 }
