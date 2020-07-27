@@ -39,7 +39,7 @@ int main(int argc, const char * argv[]) {
         rez[k]=pow(dob1,1/n);
         k++;
     }
-    cout<<"Ðåçóëüòàò:"<<endl;
+    cout<<"Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚:"<<endl;
     for (int i=0; i<k; i++) {
         cout<<rez[i]<<"  ";
     }
