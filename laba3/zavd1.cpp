@@ -18,6 +18,6 @@ int main(int argc, const char * argv[]) {
         }
         cout<<endl;
     }
-    cout<<endl<<"Êiëüê³ñòü âiä'ºìíèõ åëåìåíòiâ: "<<kilk;
+    cout<<endl<<"ÐšÑ–Ð»ÑŒÐºÑ–ÑÑ‚ÑŒ Ð²Ñ–Ð´Ñ”Ð¼Ð½Ð¸Ñ… ÐµÐ»ÐµÐ¼ÐµÐ½Ñ‚Ñ–Ð²: "<<kilk;
     return 0;
 }
