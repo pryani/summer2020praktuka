@@ -25,13 +25,13 @@ int main(int argc, const char * argv[]) {
         }
         cout<<endl;
     }
-    cout<<endl<<"Ìàêñèìàëüíèé åëåìåíò: "<<max<<endl;
+    cout<<endl<<"ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð¸Ð¹ ÐµÐ»ÐµÐ¼ÐµÐ½Ñ‚: "<<max<<endl;
     sumd=0;
     for (int i = 0; i < n; i++) {
 
         sumd+=a[i][n-1-i];
     }
-    cout<<"Ñóìà Á³÷íî¿ ä³àãîíàë³: "<<sumd<<endl;
+    cout<<"Ð¡ÑƒÐ¼Ð° Ð‘Ñ–Ñ‡Ð½Ð¾Ñ— Ð´Ñ–Ð°Ð³Ð¾Ð½Ð°Ð»Ñ–: "<<sumd<<endl;
     int mas[5];
     for (int i=0; i<5; i++) {
         mas[i]=0;
