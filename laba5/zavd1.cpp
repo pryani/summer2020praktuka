@@ -5,13 +5,13 @@ using namespace std;
 int main ()
 {   setlocale(LC_ALL, "Russian");
     int n;
-    cout << "Ââåä³òü ðîçì³ð ìàñèâó:" << endl;
+    cout << "Ð’Ð²ÐµÐ´Ñ–Ñ‚ÑŒ Ñ€Ð¾Ð·Ð¼Ñ–Ñ€ Ð¼Ð°ÑÐ¸Ð²Ñƒ:" << endl;
     cin >> n;
     int * a = new int[n];
     
     for(int i = 0; i < n;i++)
     {
-        cout << "Ââåä³òü a[" << i << "]\t";
+        cout << "Ð’Ð²ÐµÐ´Ñ–Ñ‚ÑŒ a[" << i << "]\t";
         cin >> a[i];
     }
     for(int *i = a; i < (a+n);i = (i+2))
