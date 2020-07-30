@@ -1,3 +1,0 @@
-﻿  zavd1.cpp
-C:\Users\User\Desktop\laba7\zavd1\zavd1.cpp(7,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\User\Desktop\laba7\zavd1\zavd1.cpp(8,12): error C2133: y: неизвестный размер
