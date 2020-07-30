@@ -1,0 +1,3 @@
+﻿  zavd1.cpp
+C:\Users\User\Desktop\laba6\zavd1\zavd1.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  zavd1.vcxproj -> C:\Users\User\Desktop\laba6\zavd1\Debug\zavd1.exe
