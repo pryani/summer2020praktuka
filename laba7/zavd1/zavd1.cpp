@@ -5,7 +5,7 @@
 using namespace std;
 int mass(int k, int i) {
     srand(time(NULL));
-    int y[3];
+    int y[k];
     for (int j = 0; j < k; j++) {
         y[j] = rand() % 109 + (-37);
         i++;
