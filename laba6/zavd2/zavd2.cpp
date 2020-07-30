@@ -47,7 +47,7 @@ int main(int argc, const char* argv[]) {
         }
         count += 1;
     }
-   // count += 4;
+    count += 4;
     cout << str << " " << endl;
     cout << "Кількість букв в імені: " << count << endl;
     return 0;
