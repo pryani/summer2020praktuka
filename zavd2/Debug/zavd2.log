@@ -1,0 +1,10 @@
+﻿  zavd2.cpp
+C:\Users\User\Desktop\laba7\zavd2\zavd2.cpp(7,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\laba7\zavd2\zavd2.cpp(8,13): error C2131: выражение не определяется константой
+C:\Users\User\Desktop\laba7\zavd2\zavd2.cpp(8,13): message : сбой вызван чтением переменной вне срока ее существования
+C:\Users\User\Desktop\laba7\zavd2\zavd2.cpp(8,13): message : см. использование "m"
+C:\Users\User\Desktop\laba7\zavd2\zavd2.cpp(8,16): error C2131: выражение не определяется константой
+C:\Users\User\Desktop\laba7\zavd2\zavd2.cpp(8,16): message : сбой вызван чтением переменной вне срока ее существования
+C:\Users\User\Desktop\laba7\zavd2\zavd2.cpp(8,16): message : см. использование "n"
+C:\Users\User\Desktop\laba7\zavd2\zavd2.cpp(12,43): error C3863: тип массива "float [m][n]" является неназначаемым
+C:\Users\User\Desktop\laba7\zavd2\zavd2.cpp(13,29): warning C4552: "<<": результат выражения не используется
