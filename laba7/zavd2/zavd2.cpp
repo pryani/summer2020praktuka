@@ -5,7 +5,7 @@
 using namespace std;
 int mass(int m, int n) {
     srand(time(NULL));
-    int a[10][10];
+    int a[m][n];
     int dob = 1;
     for (int k = 0; k < m; k++) {
         for (int j = 0; j < n; j++) {
