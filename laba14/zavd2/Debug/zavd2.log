@@ -1,0 +1,5 @@
+﻿  zavd2.cpp
+C:\Users\User\Desktop\laba14\zavd2\zavd2.cpp(45,20): warning C4302: приведение типов: усечение из "void *" к "char"
+C:\Users\User\Desktop\laba14\zavd2\zavd2.cpp(32,10): warning C4101: c: неиспользованная локальная переменная
+C:\Users\User\Desktop\laba14\zavd2\zavd2.cpp(31,30): warning C4101: i: неиспользованная локальная переменная
+  zavd2.vcxproj -> C:\Users\User\Desktop\laba14\zavd2\Debug\zavd2.exe

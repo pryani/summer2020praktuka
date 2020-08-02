@@ -1,0 +1,5 @@
+﻿  zavd1.cpp
+C:\Users\User\Desktop\laba14\zavd1\zavd1.cpp(15,15): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\User\Desktop\laba14\zavd1\zavd1.cpp(16,21): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\User\Desktop\laba14\zavd1\zavd1.cpp(17,22): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+  zavd1.vcxproj -> C:\Users\User\Desktop\laba14\zavd1\Debug\zavd1.exe
