@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "zavd1", "zavd1.vcxproj", "{A5DC75C3-F581-4AC1-AD8A-C488606F3ED9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5DC75C3-F581-4AC1-AD8A-C488606F3ED9}.Debug|x64.ActiveCfg = Debug|x64
+		{A5DC75C3-F581-4AC1-AD8A-C488606F3ED9}.Debug|x64.Build.0 = Debug|x64
+		{A5DC75C3-F581-4AC1-AD8A-C488606F3ED9}.Debug|x86.ActiveCfg = Debug|Win32
+		{A5DC75C3-F581-4AC1-AD8A-C488606F3ED9}.Debug|x86.Build.0 = Debug|Win32
+		{A5DC75C3-F581-4AC1-AD8A-C488606F3ED9}.Release|x64.ActiveCfg = Release|x64
+		{A5DC75C3-F581-4AC1-AD8A-C488606F3ED9}.Release|x64.Build.0 = Release|x64
+		{A5DC75C3-F581-4AC1-AD8A-C488606F3ED9}.Release|x86.ActiveCfg = Release|Win32
+		{A5DC75C3-F581-4AC1-AD8A-C488606F3ED9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE139D3A-48D4-491B-AC3E-FF01F9E3EC42}
+	EndGlobalSection
+EndGlobal
